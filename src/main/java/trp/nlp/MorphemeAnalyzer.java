@@ -1,6 +1,7 @@
 package trp.nlp;
 
-import com.sun.deploy.util.StringUtils;
+
+import org.apache.commons.lang.StringUtils;
 import org.bitbucket.eunjeon.seunjeon.Analyzer;
 import org.bitbucket.eunjeon.seunjeon.LNode;
 import org.slf4j.Logger;
